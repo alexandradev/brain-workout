@@ -10,4 +10,4 @@ if error == 1:
 print("It's not a palindrome")
 else:
 print("It's a palindrome")
-
+print()
