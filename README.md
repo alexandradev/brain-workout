@@ -1,5 +1,4 @@
 # brain-workout
 I'm going to add some tasks for a brain training. Peace 🍬
 
-hello hello test
-hello hello test
+If you have any interesting exercises, please feel free to send them to me!
