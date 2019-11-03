@@ -1,0 +1,10 @@
+x = int(input())
+y = int(input())
+z = int(input())
+
+a = max(x, y, z)
+b = min(x, y, z)
+c = (x + y + z) - (a + b)
+print(a)
+print(b)
+print(c)
